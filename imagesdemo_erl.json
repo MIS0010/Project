@@ -1,0 +1,196 @@
+[{
+    "_id": {
+      "$oid": "678dfe1737737935b9333d77"
+    },
+    "filename": "CASANJ-2024_00117569.TIF",
+    "foldername": "06077-20250120-01",
+    "created_date": {
+      "$date": "2025-01-20T07:41:11.219Z"
+    },
+    "image": "https://storage.googleapis.com/ocrimagesbucket3_docu/CASANJ-2024_00117569.TIF",
+    "input_page": "",
+    "json_data": {
+      "form_fields": {
+        "": ""
+      },
+      "paragraphs": [
+        "Doc #: 2024-117569 12/30/2024 07:25:40 AM RECORDING REQUESTED BY: Page 1 of 4 Fee: $23.00 Lennar Title, Inc./Simplifile Steve J. Bestolarides File No. 154611-010881 San Joaquin County Recorder AND WHEN RECORDED MAIL DOCUMENT TO: Paid By: Lennar Homes of California, LLC, a California limited liability company 2603 Camino Ramon, Suite 525 San Ramon, CA 94583 SPACE ABOVE FOR RECORDER'S USE ONLY A.P.N.: 256-560-450-000 Notice of Completion Title of Document Pursuant to Senate Bill 2 - Building Homes and Jobs Act (GC Code Section 27388.1), effective January 1, 2018, a fee of seventy-five dollars ($75.00) shall be paid at the time of recording of every real estate instrument, paper, or notice required or permitted by law to be recorded, except those expressly exempted from payment of recording fees, per each single transaction per parcel of real property. The fee imposed by this section shall not exceed two hundred twenty-five dollars ($225.00). Exempt from fee per GC 27388.1 (a) (2); recorded concurrently \"in connection with\" a transfer subject to the imposition of documentary transfer tax (DTT). Exempt from fee per GC 27388.1 (a) (2); recorded concurrently \"in connection with\" a transfer of real property that is a residential dwelling to an owner-occupier. Exempt from fee per GC 27388.1 (a) (1); fee cap of $225.00 reached. Exempt from the fee per GC 27388.1 (a) (1); not related to real property. MAIL TAX STATEMENT TO ADDRESS LISTED ABOVE THIS COVER SHEET ADDED TO PROVIDE ADEQUATE SPACE FOR RECORDING INFORMATION ($3.00 Additional Recording Fee Applies)"
+      ]
+    },
+    "ocr_output": [],
+    "page_reconstitution": "",
+    "processed_date": "2025-01-20T07:41:18.749177+00:00",
+    "prompts_questions": [],
+    "prompts_results": [],
+    "segmentation_heatmap": "",
+    "status": "mailingpassed",
+    "ocr_full_text": "Doc #: 2024-117569 12/30/2024 07:25:40 AM RECORDING REQUESTED BY: Page 1 of 4 Fee: $23.00 Lennar Title, Inc./Simplifile Steve J. Bestolarides File No. 154611-010881 San Joaquin County Recorder AND WHEN RECORDED MAIL DOCUMENT TO: Paid By: Lennar Homes of California, LLC, a California limited liability company 2603 Camino Ramon, Suite 525 San Ramon, CA 94583 SPACE ABOVE FOR RECORDER'S USE ONLY A.P.N.: 256-560-450-000 Notice of Completion Title of Document Pursuant to Senate Bill 2 - Building Homes and Jobs Act (GC Code Section 27388.1), effective January 1, 2018, a fee of seventy-five dollars ($75.00) shall be paid at the time of recording of every real estate instrument, paper, or notice required or permitted by law to be recorded, except those expressly exempted from payment of recording fees, per each single transaction per parcel of real property. The fee imposed by this section shall not exceed two hundred twenty-five dollars ($225.00). Exempt from fee per GC 27388.1 (a) (2); recorded concurrently \"in connection with\" a transfer subject to the imposition of documentary transfer tax (DTT). Exempt from fee per GC 27388.1 (a) (2); recorded concurrently \"in connection with\" a transfer of real property that is a residential dwelling to an owner-occupier. Exempt from fee per GC 27388.1 (a) (1); fee cap of $225.00 reached. Exempt from the fee per GC 27388.1 (a) (1); not related to real property. MAIL TAX STATEMENT TO ADDRESS LISTED ABOVE THIS COVER SHEET ADDED TO PROVIDE ADEQUATE SPACE FOR RECORDING INFORMATION ($3.00 Additional Recording Fee Applies)",
+    "ocr_text": [
+      "Doc #: 2024-117569 12/30/2024 07:25:40 AM RECORDING REQUESTED BY: Page 1 of 4 Fee: $23.00 Lennar Title, Inc./Simplifile Steve J. Bestolarides File No. 154611-010881 San Joaquin County Recorder AND WHEN RECORDED MAIL DOCUMENT TO: Paid By: Lennar Homes of California, LLC, a California limited liability company 2603 Camino Ramon, Suite 525 San Ramon, CA 94583 SPACE ABOVE FOR RECORDER'S USE ONLY A.P.N.: 256-560-450-000 Notice of Completion Title of Document Pursuant to Senate Bill 2 - Building Homes and Jobs Act (GC Code Section 27388.1), effective January 1, 2018, a fee of seventy-five dollars ($75.00) shall be paid at the time of recording of every real estate instrument, paper, or notice required or permitted by law to be recorded, except those expressly exempted from payment of recording fees, per each single transaction per parcel of real property. The fee imposed by this section shall not exceed two hundred twenty-five dollars ($225.00). Exempt from fee per GC 27388.1 (a) (2); recorded concurrently \"in connection with\" a transfer subject to the imposition of documentary transfer tax (DTT). Exempt from fee per GC 27388.1 (a) (2); recorded concurrently \"in connection with\" a transfer of real property that is a residential dwelling to an owner-occupier. Exempt from fee per GC 27388.1 (a) (1); fee cap of $225.00 reached. Exempt from the fee per GC 27388.1 (a) (1); not related to real property. MAIL TAX STATEMENT TO ADDRESS LISTED ABOVE THIS COVER SHEET ADDED TO PROVIDE ADEQUATE SPACE FOR RECORDING INFORMATION ($3.00 Additional Recording Fee Applies)"
+    ],
+    "output_party": {
+      "parties": [
+        {
+          "PARTY_NAME": {
+            "value": "LENNAR TITLE, INC.",
+            "confidence": 95
+          },
+          "PARTY_TYPE": {
+            "value": "2",
+            "confidence": 95
+          },
+          "NAME_TYPE_STATUS_CODE": {
+            "value": "B",
+            "confidence": 95
+          },
+          "ROLE_NAME": {
+            "value": "RECORDING REQUESTED BY",
+            "confidence": 95,
+            "abbreviation": ""
+          }
+        },
+        {
+          "PARTY_NAME": {
+            "value": "LENNAR HOMES OF CALIFORNIA, LLC",
+            "confidence": 95
+          },
+          "PARTY_TYPE": {
+            "value": "1",
+            "confidence": 95
+          },
+          "NAME_TYPE_STATUS_CODE": {
+            "value": "B",
+            "confidence": 95
+          },
+          "ROLE_NAME": {
+            "value": "OWNER",
+            "confidence": 95,
+            "abbreviation": "OWNER"
+          }
+        }
+      ],
+      "formatted_outputs": [
+        "CASANJ-2024_00117569.TIF|06077-20250120-01|1|I|2|B|NONE|NONE|LENNAR TITLE, INC.|LENNAR TITLE, INC.|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE||NONE|NONE|NONE|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|||||",
+        "CASANJ-2024_00117569.TIF|06077-20250120-01|1|I|1|B|NONE|NONE|LENNAR HOMES OF CALIFORNIA, LLC|LENNAR HOMES OF CALIFORNIA, LLC|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|OWNER|NONE|NONE|NONE|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|||||OWNER"
+      ],
+      "processed_timestamp": "2025-01-20T09:57:28.383302"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "678dfe1837737935b9333dc8"
+    },
+    "filename": "CASANJ-2024_00117568.TIF",
+    "foldername": "06077-20250120-01",
+    "created_date": {
+      "$date": "2025-01-20T07:41:12.238Z"
+    },
+    "image": "https://storage.googleapis.com/ocrimagesbucket3_docu/CASANJ-2024_00117568.TIF",
+    "input_page": "",
+    "json_data": {
+      "form_fields": {
+        "": ""
+      },
+      "paragraphs": [
+        "Doc #: 2024-117568 12/30/2024 07:23:13 AM Loan Number: 7600003133 Page 1 of 1 Fee: $97.00 Requested By: Steve J. Bestolarides LIEN RELEASE San Joaquin County Recorder JPMORGAN CHASE BANK, N.A Paid By: Record and Return To: JPMorgan Chase Bank N.A. c/o JPMORGAN CHASE BANK, N.A LIEN RELEASE 700 KANSAS LANE, MAIL CODE LA4-3120 MONROE, LA 71203 DEED OF RECONVEYANCE JPMORGAN CHASE BANK, NATIONAL ASSOCIATION as duly appointed Trustee under the Deed of Trust executed by JOSEPH NOVARA AND CYNTHIA NOVARA as Trustor on 12/16/2014 and recorded on 01/27/2015 and/or as 2015-009973 in the Office of the County Recorder of San Joaquin County, California, has been paid. Property Address: 11564 N ALPINE RD, STOCKTON, CA 95212 Now therefore, the present Trustee having received from the present owner of the beneficial interest under said Deed of Trust and the obligations secured thereby a written request to reconvey by reason of the obligations secured by said Deed of Trust, does hereby reconvey, without warranty, to the persons legally entitled thereto, the estate, title and interest now held by it under said Deed of Trust in San Joaquin County, California, describing the land therein. JPMORGAN CHASE BANK, NATIONAL ASSOCIATION Euro Ednique Williams Vice President - Document Execution STATE OF Louisiana } S.S. PARISH OF Ouachita On 12/27/2024, before me appeared Ednique Williams, to me personally known, who did say that s/he/they is (are) the Vice President - Document Execution of JPMORGAN CHASE BANK, NATIONAL ASSOCIATION and that the instrument was signed on behalf of the corporation (or association), by authority from its board of directors, and that s/he/they acknowledged the instrument to be the free act and deed of the corporation (or association). Brenda R Davis Band State of Louisiana Lifetime Commission Brenda R Davis - 126370 , Notary Public Notary Public ID # 126370 Lifetime Commission CA80"
+      ]
+    },
+    "ocr_output": [],
+    "page_reconstitution": "",
+    "processed_date": "2025-01-20T07:41:23.491847+00:00",
+    "prompts_questions": [],
+    "prompts_results": [],
+    "segmentation_heatmap": "",
+    "status": "mailingpassed",
+    "ocr_full_text": "Doc #: 2024-117568 12/30/2024 07:23:13 AM Loan Number: 7600003133 Page 1 of 1 Fee: $97.00 Requested By: Steve J. Bestolarides LIEN RELEASE San Joaquin County Recorder JPMORGAN CHASE BANK, N.A Paid By: Record and Return To: JPMorgan Chase Bank N.A. c/o JPMORGAN CHASE BANK, N.A LIEN RELEASE 700 KANSAS LANE, MAIL CODE LA4-3120 MONROE, LA 71203 DEED OF RECONVEYANCE JPMORGAN CHASE BANK, NATIONAL ASSOCIATION as duly appointed Trustee under the Deed of Trust executed by JOSEPH NOVARA AND CYNTHIA NOVARA as Trustor on 12/16/2014 and recorded on 01/27/2015 and/or as 2015-009973 in the Office of the County Recorder of San Joaquin County, California, has been paid. Property Address: 11564 N ALPINE RD, STOCKTON, CA 95212 Now therefore, the present Trustee having received from the present owner of the beneficial interest under said Deed of Trust and the obligations secured thereby a written request to reconvey by reason of the obligations secured by said Deed of Trust, does hereby reconvey, without warranty, to the persons legally entitled thereto, the estate, title and interest now held by it under said Deed of Trust in San Joaquin County, California, describing the land therein. JPMORGAN CHASE BANK, NATIONAL ASSOCIATION Euro Ednique Williams Vice President - Document Execution STATE OF Louisiana } S.S. PARISH OF Ouachita On 12/27/2024, before me appeared Ednique Williams, to me personally known, who did say that s/he/they is (are) the Vice President - Document Execution of JPMORGAN CHASE BANK, NATIONAL ASSOCIATION and that the instrument was signed on behalf of the corporation (or association), by authority from its board of directors, and that s/he/they acknowledged the instrument to be the free act and deed of the corporation (or association). Brenda R Davis Band State of Louisiana Lifetime Commission Brenda R Davis - 126370 , Notary Public Notary Public ID # 126370 Lifetime Commission CA80",
+    "ocr_text": [
+      "Doc #: 2024-117568 12/30/2024 07:23:13 AM Loan Number: 7600003133 Page 1 of 1 Fee: $97.00 Requested By: Steve J. Bestolarides LIEN RELEASE San Joaquin County Recorder JPMORGAN CHASE BANK, N.A Paid By: Record and Return To: JPMorgan Chase Bank N.A. c/o JPMORGAN CHASE BANK, N.A LIEN RELEASE 700 KANSAS LANE, MAIL CODE LA4-3120 MONROE, LA 71203 DEED OF RECONVEYANCE JPMORGAN CHASE BANK, NATIONAL ASSOCIATION as duly appointed Trustee under the Deed of Trust executed by JOSEPH NOVARA AND CYNTHIA NOVARA as Trustor on 12/16/2014 and recorded on 01/27/2015 and/or as 2015-009973 in the Office of the County Recorder of San Joaquin County, California, has been paid. Property Address: 11564 N ALPINE RD, STOCKTON, CA 95212 Now therefore, the present Trustee having received from the present owner of the beneficial interest under said Deed of Trust and the obligations secured thereby a written request to reconvey by reason of the obligations secured by said Deed of Trust, does hereby reconvey, without warranty, to the persons legally entitled thereto, the estate, title and interest now held by it under said Deed of Trust in San Joaquin County, California, describing the land therein. JPMORGAN CHASE BANK, NATIONAL ASSOCIATION Euro Ednique Williams Vice President - Document Execution STATE OF Louisiana } S.S. PARISH OF Ouachita On 12/27/2024, before me appeared Ednique Williams, to me personally known, who did say that s/he/they is (are) the Vice President - Document Execution of JPMORGAN CHASE BANK, NATIONAL ASSOCIATION and that the instrument was signed on behalf of the corporation (or association), by authority from its board of directors, and that s/he/they acknowledged the instrument to be the free act and deed of the corporation (or association). Brenda R Davis Band State of Louisiana Lifetime Commission Brenda R Davis - 126370 , Notary Public Notary Public ID # 126370 Lifetime Commission CA80"
+    ],
+    "output_party": {
+      "parties": [
+        {
+          "PARTY_NAME": {
+            "value": "JPMORGAN CHASE BANK, N.A",
+            "confidence": 95
+          },
+          "PARTY_TYPE": {
+            "value": "1",
+            "confidence": 95
+          },
+          "NAME_TYPE_STATUS_CODE": {
+            "value": "B",
+            "confidence": 95
+          },
+          "ROLE_NAME": {
+            "value": "LENDER",
+            "confidence": 95,
+            "abbreviation": "LENDER"
+          }
+        },
+        {
+          "PARTY_NAME": {
+            "value": "JOSEPH NOVARA",
+            "confidence": 95
+          },
+          "PARTY_TYPE": {
+            "value": "2",
+            "confidence": 95
+          },
+          "NAME_TYPE_STATUS_CODE": {
+            "value": "I",
+            "confidence": 95
+          },
+          "ROLE_NAME": {
+            "value": "BORROWER",
+            "confidence": 95,
+            "abbreviation": "BOROWR"
+          }
+        },
+        {
+          "PARTY_NAME": {
+            "value": "CYNTHIA NOVARA",
+            "confidence": 95
+          },
+          "PARTY_TYPE": {
+            "value": "2",
+            "confidence": 95
+          },
+          "NAME_TYPE_STATUS_CODE": {
+            "value": "I",
+            "confidence": 95
+          },
+          "ROLE_NAME": {
+            "value": "BORROWER",
+            "confidence": 95,
+            "abbreviation": "BOROWR"
+          }
+        },
+        {
+          "PARTY_NAME": {
+            "value": "STEVE J. BESTOLARIDES",
+            "confidence": 95
+          },
+          "PARTY_TYPE": {
+            "value": "3",
+            "confidence": 95
+          },
+          "NAME_TYPE_STATUS_CODE": {
+            "value": "I",
+            "confidence": 95
+          },
+          "ROLE_NAME": {
+            "value": "REQUESTER",
+            "confidence": 95,
+            "abbreviation": "REQSTR"
+          }
+        }
+      ],
+      "formatted_outputs": [
+        "CASANJ-2024_00117568.TIF|06077-20250120-01|1|I|1|B|NONE|NONE|JPMORGAN CHASE BANK, N.A|JPMORGAN CHASE BANK, N.A|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|LENDER|NONE|NONE|NONE|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|||||LENDER",
+        "CASANJ-2024_00117568.TIF|06077-20250120-01|1|I|2|I|NONE|NONE|NOVARA,JOSEPH|NOVARA,JOSEPH|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|BOROWR|NONE|NONE|NONE|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|||||BOROWR",
+        "CASANJ-2024_00117568.TIF|06077-20250120-01|1|I|2|I|NONE|NONE|NOVARA,CYNTHIA|NOVARA,CYNTHIA|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|BOROWR|NONE|NONE|NONE|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|||||BOROWR",
+        "CASANJ-2024_00117568.TIF|06077-20250120-01|1|I|3|I|NONE|NONE|BESTOLARIDES,STEVE J.|J.|BESTOLARIDES,STEVE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|NONE|REQSTR|NONE|NONE|NONE|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|HIGH|||||REQSTR"
+      ],
+      "processed_timestamp": "2025-01-20T09:57:29.064152"
+    }
+  }]
